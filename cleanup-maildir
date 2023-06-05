@@ -33,7 +33,7 @@ DESCRIPTION
   depends on COMMAND.  (See next section.)
       Note that FOLDERNAME is a name such as 'Drafts', and the
   corresponding maildir path is determined using the values of
-  maildir-root, folder-prefix, and folder-seperator.
+  maildir-root, folder-prefix, and folder-separator.
 
 COMMANDS
   archive - move old messages to subfolders based on message date
